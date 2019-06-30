@@ -1,4 +1,4 @@
-# Malicious 
+# Malvigen 
 ![](https://img.shields.io/badge/Python-2.7/2.6-yellowgreen.svg)
 ![](https://img.shields.io/badge/version-1.1-brightgreen.svg)
 ## Requirements pip2 and gem
@@ -17,9 +17,9 @@ $pkg install python2
 $pkg install ruby
 $gem install lolcat
 $git clone https://github.com/CybernetiX-S3C/Malvigen
-$cd Malicious
+$cd Malvigen
 $pip2 install -r requirements.txt
-$python2 malicious.py
+$python2 malvigen.py
 ```
 *After downloading a malware, open your file explorer,*
 
@@ -34,7 +34,7 @@ $apt-get install git
 $apt-get install python2 ruby
 $gem install lolcat
 $git clone https://github.com/CybernetiX-S3C/Malvigen
-$cd Malicious
+$cd Malvigen
 $pip2 install -r requirements.txt
-$python2 malicious.py
+$python2 malvigen.py
 ```
